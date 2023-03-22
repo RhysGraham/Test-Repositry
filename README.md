@@ -1,5 +1,4 @@
 # ProgSoc Git Workshop Demo 
-# I control everything...
 
 Group Members: Zen, Rhys and Connie
 
