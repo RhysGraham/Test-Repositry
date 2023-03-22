@@ -1,4 +1,6 @@
-# ProgSoc Git Workshop Demo
+# ProgSoc Git Workshop Demo 
+
+Group Members: Zen, Rhys and Connie
 
 This is a demo project for the ProgSoc Git Workshop.
 
@@ -16,7 +18,7 @@ $ node index.js
 ## game-play instructions
 
 The game automatically assigns names and characters ('X' and 'O') to the two players.
-On prompt provide the position to place your next character in the range of 1-9. Positions are counted from left to right, top to bottom:::
+On prompt provide the position to place your next character in the range of 1-9. Positions are counted from left to right, top to bottom: Hi
 
 <table>
     <tr>
