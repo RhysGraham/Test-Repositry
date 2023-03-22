@@ -1,5 +1,7 @@
 # ProgSoc Git Workshop Demo
 
+Group Members: Zen, Rhys and Connie
+
 This is a demo project for the ProgSoc Git Workshop.
 
 The code used here was copied from this blog post: https://jamesinkala.com/blog/creating-a-tic-tac-toe-nodejs-game/
