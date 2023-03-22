@@ -18,7 +18,7 @@ $ node index.js
 ## game-play instructions
 
 The game automatically assigns names and characters ('X' and 'O') to the two players.
-On prompt provide the position to place your next character in the range of 1-9. Positions are counted from left to right, top to bottom:;;
+On prompt provide the position to place your next character in the range of 1-9. Positions are counted from left to right, top to bottom::
 
 <table>
     <tr>
@@ -37,3 +37,5 @@ On prompt provide the position to place your next character in the range of 1-9.
         <td>9</td>
     </tr>
 </table>
+
+## Connie put sth here
